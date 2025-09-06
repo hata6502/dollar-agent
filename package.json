@@ -1,5 +1,5 @@
 {
-  "name": "$",
+  "name": "dollar-agent",
   "version": "1.0.0",
   "description": "Run your shell commands with an AI agent by prefixing them with `$`. ",
   "author": "hata6502",
