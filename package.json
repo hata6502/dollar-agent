@@ -1,6 +1,6 @@
 {
   "name": "dollar-agent",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Run your shell commands with an AI agent by prefixing them with `$`. ",
   "author": "hata6502",
   "license": "CC0-1.0",
